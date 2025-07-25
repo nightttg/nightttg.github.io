@@ -25,11 +25,11 @@ author:
   avatar           : "llx.jpg"
   name             : "Liao Luxin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Beijing Normal University"
+  location         : "Zhuhai"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "202211079177@mail.bnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
