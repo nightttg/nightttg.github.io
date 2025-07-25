@@ -18,6 +18,8 @@ Honors
 • 2024 Guangdong Mathematical Modeling Contest, Provincial Second Prize Dec 2024
 • National Innovation & Entrepreneurship Training Program 2024-2025
 
+Research
+======
 Fine-grained Spatial Temporal Forecasting
 ------
 • Addressing the challenge of predicting abrupt trend shifts in time series, We introduce a fine-grained spatio-temporal
@@ -50,13 +52,15 @@ delays and model uncertainties.
 • As the first author, my paper has been accepted for publication at the 2025 International Conference on Computer
 Modeling, Simulation and Intelligent Systems (CMSIS 2025).
 
+Projects
+======
 Oracle Bone Script Education Platform
 ------
 • National-level innovation project implementing WordPress-based educational platform with custom HTML/CSS modules, deployed on Tencent Cloud.
 • Responsibilities: Full-stack development and maintenance. URL: http://www.shizihanjiao.com/
 
 Skills
-------
+======
 • Technical: C/C++, Python, MATLAB, SPSS, LaTeX
 • Interests: Football, Badminton, Calligraphy
 • Leadership: Led multiple award-winning academic teams
