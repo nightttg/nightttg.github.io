@@ -26,7 +26,6 @@ Research
 
 Fine-grained Spatial Temporal Forecasting
 ------
-
 • Addressing the challenge of predicting abrupt trend shifts in time series, We introduce a fine-grained spatio-temporal
 meta-learning framework to solve the data sparsity problem by dividing tasks in different time periods and tasks
 across multiple time periods learn together. This framework include a novel fusion modules to incorporates the
@@ -44,7 +43,6 @@ ability to predict mutational trends, underscoring the model’s versatility and
 A Study on Iterative Learning Boundary Control with Forgetting Factor for Distributed Parameter
 Systems
 ------
-
 • This paper investigates the trajectory tracking problem of distributed parameter systems (DPS) constrained by sensors
 and actuators. To improve learning efficiency and accelerate convergence, an improved iterative learning control (ILC)
 scheme incorporating a forgetting factor is proposed. This method is further extended to DPS systems with state delays,
@@ -62,6 +60,7 @@ Modeling, Simulation and Intelligent Systems (CMSIS 2025).
 
 Projects
 ======
+
 Oracle Bone Script Education Platform
 ------
 • National-level innovation project implementing WordPress-based educational platform with custom HTML/CSS modules, deployed on Tencent Cloud.  
