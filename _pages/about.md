@@ -14,14 +14,19 @@ Beijing Normal University (Zhuhai Campus) 2022 - Present
 
 Honors
 ======
-• 14th National Market Research & Analysis Competition, National Third Prize Jun 2024
-• 2024 Guangdong Mathematical Modeling Contest, Provincial Second Prize Dec 2024
-• National Innovation & Entrepreneurship Training Program 2024-2025
+• 14th National Market Research & Analysis Competition, National Third Prize Jun 2024  
+
+• 2024 Guangdong Mathematical Modeling Contest, Provincial Second Prize Dec 2024  
+
+• National Innovation & Entrepreneurship Training Program 2024-2025  
+
 
 Research
 ======
+
 Fine-grained Spatial Temporal Forecasting
 ------
+
 • Addressing the challenge of predicting abrupt trend shifts in time series, We introduce a fine-grained spatio-temporal
 meta-learning framework to solve the data sparsity problem by dividing tasks in different time periods and tasks
 across multiple time periods learn together. This framework include a novel fusion modules to incorporates the
@@ -39,6 +44,7 @@ ability to predict mutational trends, underscoring the model’s versatility and
 A Study on Iterative Learning Boundary Control with Forgetting Factor for Distributed Parameter
 Systems
 ------
+
 • This paper investigates the trajectory tracking problem of distributed parameter systems (DPS) constrained by sensors
 and actuators. To improve learning efficiency and accelerate convergence, an improved iterative learning control (ILC)
 scheme incorporating a forgetting factor is proposed. This method is further extended to DPS systems with state delays,
